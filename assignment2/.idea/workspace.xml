@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ff8cb95-0f3d-4089-ac64-d07abe6cfdc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../assignment1/.idea/assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/familiarization.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="0ff8cb95-0f3d-4089-ac64-d07abe6cfdc5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,17 +10,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task2.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task5.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task4.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -113,12 +100,12 @@
       <updated>1559668657347</updated>
       <workItem from="1559668659106" duration="11777000" />
       <workItem from="1559692079212" duration="4071000" />
-      <workItem from="1559696181465" duration="7271000" />
+      <workItem from="1559696181465" duration="7672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23119000" />
+    <option name="totallyTimeSpent" value="23520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
@@ -172,13 +159,13 @@
     <entry file="file://$PROJECT_DIR$/task1.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/task4.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/task5.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/task2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
